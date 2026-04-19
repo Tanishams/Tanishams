@@ -12,21 +12,21 @@
 
 ---
 
-## 💫 About Me
+## About Me
 <table align="center">
   <tr>
     <td width="50%" style="vertical-align: top;">
-      <h3>👋 Namaskara!</h3>
-      I am an <b>Information Science & Engineering</b> student at Atria Institute of Technology. I specialize in building <b>Full-Stack Web Applications</b> with a focus on GenAI integration.
+      <h3>Hello!</h3>
+      I am an <b>Information Science & Engineering</b> undergraduate at Atria Institute of Technology. I specialize in building <b>Full-Stack Web Applications</b> with a focus on GenAI integration.
       <br/><br/>
-      🌱 <b>Focus:</b> React.js, Node.js, and LLM implementations.
+      <b>Focus:</b> React.js, Node.js implementation.
     </td>
     <td width="50%" style="vertical-align: top;">
       <h3>🛠️ Quick Info</h3>
       <ul>
         <li>🎓 <b>Graduating:</b> 2027 (VTU)</li>
-        <li>🤖 <b>Past Internship:</b> AI/ML @ Embrizon Technologies</li>
-        <li>📑 <b>Certification:</b> NPTEL DBMS Certified</li>
+        <li> <b>Past Internship:</b> AI/ML @ Embrizon Technologies</li>
+        <li> <b>Certification:</b> NPTEL DBMS Certified</li>
       </ul>
     </td>
   </tr>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,mysql,mongodb,html,css,git,arduino,python,linux&perline=6" />
 </p>
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Performance & Activity
+##  Performance & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanishams&show_icons=true&theme=tokyonight&border_color=39FF14&border_radius=10&icon_color=39FF14&title_color=39FF14" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Tanishams&theme=tokyonight&border=39FF14&border_radius=10&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
