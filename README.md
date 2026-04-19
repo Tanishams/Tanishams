@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=TANISHA%20M%20S&fontSize=50&fontAlignY=45&animation=fadeIn&fontColor=39FF14" />
+  <img src="https://www.local18.in/_next/image/?url=https%3A%2F%2Fmedia.collegedekho.com%2Fmedia%2Fimg%2Finstitute%2Flogo%2FAtria_Logo_200_cwpE67n.png%3Fimwidth%3D474&w=3840&q=75
+type=soft&color=0d1117&height=200&section=header&text=TANISHA%20M%20S&fontSize=50&fontAlignY=45&animation=fadeIn&fontColor=39FF14" />
 </div>
 
 <div align="center">
