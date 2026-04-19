@@ -26,7 +26,7 @@
        <b>Focus:</b> React.js, Node.js implementation.
     </td>
     <td width="50%" style="vertical-align: top;">
-      <h3>🛠️ Quick Info</h3>
+      <h3>Quick Info</h3>
       <ul>
         <li>🎓 <b>Graduating:</b> 2027 (VTU)</li>
         <li><b>Experience:</b> AI/ML Intern @ Embrizon</li>
