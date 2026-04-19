@@ -43,11 +43,11 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/Tanishams/SmartTalkAI">
+  <a href="https://github.com/Tanishams/ai_speaking_tutor.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=SmartTalkAI&theme=tokyonight&border_color=39FF14&border_radius=12" />
   </a>
-  <a href="https://github.com/Tanishams/CircuitConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=CircuitConnect&theme=tokyonight&border_color=39FF14&border_radius=12" />
+  <a href="https://github.com/Tanishams/gender_detection.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=gender_detection&theme=tokyonight&border_color=39FF14&border_radius=12" />
   </a>
 </div>
 
@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/tanisha-m-s">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tanishams@example.com">
+  <a href="mailto:tanishams2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
