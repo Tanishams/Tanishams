@@ -67,7 +67,7 @@
 
 ## 🤝 Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/tanisha-m-s">
+  <a href="www.linkedin.com/in/tanisha-ms">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tanishams2005@gmail.com">
