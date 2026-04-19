@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Atria_Institute_of_Technology_logo.png" height="100" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=TANISHA%20M%20S&fontSize=50&fontAlignY=45&animation=fadeIn&fontColor=FF00FF" />
 </div>
 
@@ -11,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-FF00FF?style=for-the-badge&logo=googlemaps&logoColor=FF00FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-FF00FF?style=for-the-badge&logo=googlemaps&logoColor=FF00FF&labelColor=0d1117"/>
 </p>
 
 ---
@@ -23,7 +19,7 @@
       <h3> Hello!</h3>
       I am an <b>Information Science & Engineering</b> undergraduate at Atria Institute of Technology. I specialize in building <b>Full-Stack Web Applications</b> with a focus on GenAI integration.
       <br/><br/>
-     <b>Focus:</b> React.js, Node.js implementation.
+      <b>Focus:</b> React.js, Node.js implementation.
     </td>
     <td width="50%" style="vertical-align: top;">
       <h3>Quick Info</h3>
@@ -47,25 +43,29 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=ai_speaking_tutor&theme=dark&border_color=FF00FF&border_radius=12&title_color=FF00FF&icon_color=FF00FF&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=gender_detection&theme=dark&border_color=FF00FF&border_radius=12&title_color=FF00FF&icon_color=FF00FF&text_color=ffffff" />
+  <a href="https://github.com/Tanishams/ai_speaking_tutor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=ai_speaking_tutor&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" />
+  </a>
+  <a href="https://github.com/Tanishams/gender_detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=gender_detection&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" />
+  </a>
 </div>
 
 ---
 
-##  Performance & Activity
+## Analytics & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishams&show_icons=true&theme=dark&border_color=FF00FF&border_radius=10&icon_color=FF00FF&title_color=FF00FF&text_color=ffffff" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Tanishams&theme=dark&border=FF00FF&border_radius=10&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishams&show_icons=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Tanishams&theme=dark&background=0d1117&border=FF00FF&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishams&theme=tokyo-night&radius=12&color=FF00FF&line=FF00FF&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishams&theme=tokyo-night&bg_color=0d1117&color=FF00FF&line=FF00FF&point=ffffff&area=true&hide_border=true&radius=15" width="100%" />
 </p>
 
 ---
 
-## Let's Connect 🫱🏼‍🫲🏻
+## Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/tanisha-ms" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
