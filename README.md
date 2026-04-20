@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&customColorList=00FBFF,FF00FF&height=200&section=header&text=TANISHA%20M%20S&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=ffffff" />
+  <img src="type=soft&color=auto&customColorList=00FBFF,FF00FF&height=200&section=header&text=TANISHA%20M%20S&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
