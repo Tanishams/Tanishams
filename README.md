@@ -49,6 +49,9 @@
   <a href="https://github.com/Tanishams/gender_detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=gender_detection&bg_color=0d1117&title_color=00FBFF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" />
   </a>
+  <a href="https://huggingface.co/spaces/tanisha-ms/healio-aidoc">
+    <img src="https://img.shields.io/badge/🚀%20Healio%20AI%20Doctor-Live%20Demo-00FBFF?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 </div>
 
 ---
