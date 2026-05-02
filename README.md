@@ -10,12 +10,12 @@
 </p>
 ---
  
-## 👩‍💻 About Me
+## About Me
  
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>Hello! 👋</h3>
+      <h3>Hello!</h3>
       I'm an <b>Information Science & Engineering</b> undergraduate at Atria Institute of Technology, Bangalore. I specialize in building <b>AI/ML systems</b> and <b>full-stack web platforms</b> with a focus on real-world impact.
       <br/><br/>
       <b>Currently Building:</b> AI-Based CCTV Surveillance for Women Safety using YOLOv8 + YAMNet + MediaPipe.
@@ -23,19 +23,19 @@
       <b>Focus Areas:</b> Python, Java, Flask/FastAPI, React.js
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Quick Info</h3>
+      <h3>Quick Info</h3>
       <ul>
-        <li>🎓 <b>Graduating:</b> 2027 (VTU) | CGPA: 8.17</li>
-        <li>💼 <b>Experience:</b> AI/ML Intern @ Embrizon Technologies (2023–2025)</li>
-        <li>📜 <b>Certifications:</b> NPTEL DBMS | AWS Certified | Infosys Springboard</li>
-        <li>🌱 <b>Learning:</b> React.js, MERN Stack, Cloud (OCI/AWS)</li>
+        <li><b>Graduating:</b> 2027 (VTU) | CGPA: 8.17</li>
+        <li><b>Experience:</b> AI/ML Intern @ Embrizon Technologies (2023–2025)</li>
+        <li><b>Certifications:</b> NPTEL DBMS | AWS Certified | Infosys Springboard</li>
+        <li><b>Learning:</b> React.js, MERN Stack, Cloud (OCI/AWS)</li>
       </ul>
     </td>
   </tr>
 </table>
 ---
  
-## 🛠️ Tech Stack
+## Tech Stack
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,flask,php,mysql,mongodb,html,css,git&perline=6" />
@@ -50,7 +50,7 @@
 </p>
 ---
  
-## 🚀 Featured Projects
+## Featured Projects
  
 <div align="center">
   <a href="https://github.com/Tanishams/ai_speaking_tutor">
@@ -63,12 +63,12 @@
 <br/>
 <div align="center">
   <a href="https://huggingface.co/spaces/tanisha-ms/healio-aidoc">
-    <img src="https://img.shields.io/badge/🚀%20Healio%20AI%20Doctor-Live%20on%20HuggingFace-00FBFF?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Healio%20AI%20Doctor-Live%20on%20HuggingFace-00FBFF?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
   </a>
 </div>
 ---
  
-## 📊 Analytics & Activity
+## Analytics & Activity
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanishams&show_icons=true&bg_color=0d1117&title_color=00FBFF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" width="48%" />
@@ -79,7 +79,7 @@
 </p>
 ---
  
-## 🤝 Let's Connect!
+## Let's Connect
  
 <div align="center">
   <a href="https://www.linkedin.com/in/tanisha-ms" target="_blank">
