@@ -17,7 +17,7 @@
   <tr>
     <td width="50%" style="vertical-align: top;">
       <h3>Hello!</h3>
-      I am an <b>Information Science & Engineering</b> undergraduate at Atria Institute of Technology. I specialize in building <b>Full-Stack Web Applications</b> with a focus on GenAI integration.
+      I am an <b>Information Science & Engineering</b> undergraduate at Atria Institute of Technology. I specialize in building <b>Software Engineer</b> with a focus on GenAI integration.
       <br/><br/>
       <b>Focus:</b> React.js, Node.js implementation.
     </td>
