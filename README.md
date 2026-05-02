@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2800&pause=800&color=FF00FF&vCenter=true&center=true&width=700&lines=Information+Science+%26+Engineering;Full+Stack+Developer+%7C+AI+Enthusiast;Building+SmartTalk+AI+%26+Gender+Detection;Turning+Code+into+Ethereal+Experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2800&pause=800&color=FF00FF&vCenter=true&center=true&width=700&lines=Information+Science+%26+Engineering;+Software+Engineer+%7C+AI+Enthusiast;Building+SmartTalk+AI+%26+Gender+Detection+26%+Healio+AI+Doctor;Turning+Code+into+Ethereal+Experiences"/>
 </div>
 
 <p align="center">
