@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=00FBFF,FF00FF&height=200&section=header&text=TANISHA%20M%20S&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=ffffff" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=FF00FF&vCenter=true&center=true&width=750&lines=Information+Science+%26+Engineering+%40+Atria;AI&+Full Stack Developer+%7C+AI+%26+ML+Enthusiast;Building+SmartTalk+AI+%7C+Healio+AI+Doctor;Turning+Code+into+Ethereal+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=FF00FF&vCenter=true&center=true&width=750&lines=Information+Science+%26+Engineering+%40+Atria;AI+Full Stack Developer+%7C+AI+%26+ML+Enthusiast;Building+SmartTalk+AI+%7C+Healio+AI+Doctor;Turning+Code+into+Ethereal+Experiences" />
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-00FBFF?style=for-the-badge&logo=googlemaps&logoColor=FF00FF&labelColor=0d1117"/>
