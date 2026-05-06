@@ -15,93 +15,111 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_to_Internships-0d1117?style=flat-square&labelColor=0d1117&color=f59e0b"/>
 </div>
+<br/>
 ---
  
 ## `whoami`
  
-```python
-class TanishaMS:
-    name        = "Tanisha M S"
-    institute   = "Atria Institute of Technology, Bangalore"
-    degree      = "B.E. Information Science & Engineering"
-    graduation  = 2027
-    cgpa        = 8.17
- 
-    roles = [
-        "AI / ML Engineer",
-        "Full-Stack Developer (MERN + Flask/FastAPI)",
-        "AI Research Enthusiast"
-    ]
- 
-    currently_building = """
-        AI-Based CCTV Surveillance for Women Safety
-        → YOLOv8 + YAMNet + MediaPipe
-        → Real-time threat detection with multi-modal fusion
-    """
- 
-    experience = {
-        "company"  : "Embrizon Technologies",
-        "role"     : "AI/ML Intern",
-        "duration" : "2023 – 2025"
-    }
- 
-    certifications = [
-        "NPTEL – Database Management Systems",
-        "AWS Certified Cloud Practitioner",
-        "Infosys Springboard – AI/ML Track"
-    ]
- 
-    contact = {
-        "email"    : "tanishams225@gmail.com",
-        "linkedin" : "linkedin.com/in/tanisha-ms",
-        "github"   : "github.com/Tanishams"
-    }
-```
- 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4 align="center">👩‍💻 About Me</h4>
+      <table>
+        <tr><td>📛 <b>Name</b></td><td>Tanisha M S</td></tr>
+        <tr><td>🏫 <b>Institute</b></td><td>Atria Institute of Technology, Bangalore</td></tr>
+        <tr><td>🎓 <b>Degree</b></td><td>B.E. Information Science & Engineering</td></tr>
+        <tr><td>📅 <b>Graduation</b></td><td>2027</td></tr>
+        <tr><td>📊 <b>CGPA</b></td><td>8.17</td></tr>
+        <tr><td>📍 <b>Location</b></td><td>Bangalore, India</td></tr>
+      </table>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">🚀 What I Do</h4>
+      <table>
+        <tr><td>🤖</td><td>AI / ML Engineer</td></tr>
+        <tr><td>🌐</td><td>Full-Stack Developer (MERN + Flask/FastAPI)</td></tr>
+        <tr><td>🔬</td><td>AI Research Enthusiast</td></tr>
+      </table>
+      <br/>
+      <h4 align="center">💼 Experience</h4>
+      <table>
+        <tr><td>🏢 <b>Company</b></td><td>Embrizon Technologies</td></tr>
+        <tr><td>🧑‍🔬 <b>Role</b></td><td>AI/ML Intern</td></tr>
+        <tr><td>📆 <b>Duration</b></td><td>2024</td></tr>
+      </table>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">🔧 Currently Building</h4>
+      <table>
+        <tr><td>🎯 <b>Project</b></td><td>AI-Based CCTV Surveillance for Women Safety</td></tr>
+        <tr><td>👁️ <b>Vision</b></td><td>YOLOv8 for object detection</td></tr>
+        <tr><td>🔊 <b>Audio</b></td><td>YAMNet for distress recognition</td></tr>
+        <tr><td>🕺 <b>Pose</b></td><td>MediaPipe for pose estimation</td></tr>
+        <tr><td>⚡ <b>Goal</b></td><td>Real-time multi-modal threat detection</td></tr>
+      </table>
+      <br/>
+      <div align="center">
+        <sub><i>🚧 Active Development</i></sub>
+      </div>
+    </td>
+  </tr>
+</table>
 ---
  
 ## Tech Stack
  
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6"/>
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f59e0b"/>
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=818cf8"/>
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38bdf8"/>
-</p>
-### Frameworks & Runtimes
-<p>
-  <img src="https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4ade80"/>
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FBFF"/>
-</p>
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=YOLO&logoColor=FF00FF"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=34d399"/>
-  <img src="https://img.shields.io/badge/YAMNet-0d1117?style=for-the-badge&logo=tensorflow&logoColor=f97316"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f59e0b"/>
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=818cf8"/>
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=60a5fa"/>
-</p>
-### Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4ade80"/>
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=f59e0b"/>
-  <img src="https://img.shields.io/badge/OCI-0d1117?style=for-the-badge&logo=oracle&logoColor=ef4444"/>
-</p>
-### Tools
-<p>
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <h4 align="center">🧠 Languages</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6"/><br/>
+        <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f97316"/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f59e0b"/><br/>
+        <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=818cf8"/><br/>
+        <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38bdf8"/>
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">⚙️ Frameworks</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=38bdf8"/><br/>
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4ade80"/><br/>
+        <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff"/><br/>
+        <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FBFF"/>
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">🤖 AI / ML</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=YOLO&logoColor=FF00FF"/><br/>
+        <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=34d399"/><br/>
+        <img src="https://img.shields.io/badge/YAMNet-0d1117?style=for-the-badge&logo=tensorflow&logoColor=f97316"/><br/>
+        <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f59e0b"/><br/>
+        <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=38bdf8"/><br/>
+        <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=818cf8"/><br/>
+        <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=60a5fa"/>
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">☁️ Cloud & DB</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=38bdf8"/><br/>
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4ade80"/><br/>
+        <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=f59e0b"/><br/>
+        <img src="https://img.shields.io/badge/OCI-0d1117?style=for-the-badge&logo=oracle&logoColor=ef4444"/>
+      </div>
+    </td>
+  </tr>
+</table>
+<h4 align="center">🛠️ Tools</h4>
+<div align="center">
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316"/>
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=f97316"/>
   <img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=f59e0b"/>
-</p>
+</div>
 ---
  
 ## Featured Projects
@@ -109,7 +127,7 @@ class TanishaMS:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>AI-Based CCTV Surveillance</h3>
+      <h3>🔒 AI-Based CCTV Surveillance</h3>
       <sub><b>Women Safety &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Audio AI</b></sub>
       <br/><br/>
       Real-time surveillance system combining <b>YOLOv8</b> for object detection, <b>YAMNet</b> for audio distress recognition, and <b>MediaPipe</b> for pose estimation. Designed to identify threats and trigger alerts automatically.
@@ -118,10 +136,10 @@ class TanishaMS:
       <img src="https://img.shields.io/badge/YAMNet-0d1117?style=flat-square&logo=tensorflow&logoColor=f97316"/>
       <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=00FBFF"/>
       <br/><br/>
-      <sub><i>Currently in active development</i></sub>
+      <sub><i>🚧 Currently in active development</i></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>SmartTalk AI</h3>
+      <h3>🎙️ SmartTalk AI</h3>
       <sub><b>Voice AI &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Speaking Tutor</b></sub>
       <br/><br/>
       An AI-powered speaking tutor that evaluates spoken English in real time — analysing fluency, grammar, and pronunciation with detailed feedback loops. Built for learners who want adaptive, conversational practice.
@@ -137,7 +155,7 @@ class TanishaMS:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Healio — AI Doctor</h3>
+      <h3>🏥 Healio — AI Doctor</h3>
       <sub><b>Healthcare AI &nbsp;·&nbsp; Symptom Analysis &nbsp;·&nbsp; Live Demo</b></sub>
       <br/><br/>
       A medical AI assistant that parses symptom inputs and provides preliminary health insights using fine-tuned language models. Deployed live on HuggingFace Spaces — accessible with zero setup.
@@ -151,7 +169,7 @@ class TanishaMS:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Gender Detection</h3>
+      <h3>👁️ Gender Detection</h3>
       <sub><b>Computer Vision &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Classification</b></sub>
       <br/><br/>
       A computer vision model trained for real-time gender classification from facial imagery using CNN architectures. Demonstrates an end-to-end ML pipeline: data processing, model training, and inference API.
@@ -187,12 +205,14 @@ class TanishaMS:
  
 ## Certifications
  
-| Certification | Issuer | Domain |
-|---|---|---|
+<div align="center">
+| 🏅 Certification | 🏢 Issuer | 📂 Domain |
+|:---|:---|:---|
 | Database Management Systems | NPTEL – IIT | Databases & SQL |
 | AWS Certified Cloud Practitioner | Amazon Web Services | Cloud Computing |
 | AI & ML Track | Infosys Springboard | Artificial Intelligence |
  
+</div>
 ---
  
 ## Connect
@@ -222,3 +242,4 @@ class TanishaMS:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=false" />
 </div>
+ 
