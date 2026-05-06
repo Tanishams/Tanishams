@@ -1,103 +1,224 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=00FBFF,FF00FF&height=200&section=header&text=TANISHA%20M%20S&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=TANISHA%20M%20S&fontSize=60&fontAlignY=50&animation=fadeIn&fontColor=ffffff&stroke=00FBFF&strokeWidth=2&desc=AI%20%2F%20Full-Stack%20Engineer%20%7C%20ISE%20%40%20Atria%20Institute%20of%20Technology&descSize=16&descAlignY=72&descAlign=50&descColor=aaaaaa" />
 </div>
+<br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=FF00FF&vCenter=true&center=true&width=750&lines=Information+Science+%26+Engineering+%40+Atria;AI+Full Stack Developer+%7C+AI+%26+ML+Enthusiast;Building+SmartTalk+AI+%7C+Healio+AI+Doctor;Turning+Code+into+Ethereal+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FBFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Building+AI-Powered+Surveillance+for+Women+Safety;Full-Stack+Engineer+%7C+Python+%7C+React+%7C+Flask;SmartTalk+AI+%E2%80%94+Voice+Intelligence+Platform;Healio+AI+Doctor+%E2%80%94+Healthcare+Meets+ML;Open+to+Internships+%26+Collaborative+Projects" alt="Typing SVG" />
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-00FBFF?style=for-the-badge&logo=googlemaps&logoColor=FF00FF&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-FF00FF?style=for-the-badge&labelColor=0d1117"/>
-</p>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Bangalore,_India-0d1117?style=flat-square&labelColor=0d1117&color=00FBFF"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/University-VTU_2027-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-8.17-0d1117?style=flat-square&labelColor=0d1117&color=10b981"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships-0d1117?style=flat-square&labelColor=0d1117&color=f59e0b"/>
+</div>
 ---
  
-## About Me
+## `whoami`
  
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Hello!</h3>
-      I'm an <b>Information Science & Engineering</b> undergraduate at Atria Institute of Technology, Bangalore. I specialize in building <b>AI/ML systems</b> and <b>full-stack web platforms</b> with a focus on real-world impact.
-      <br/><br/>
-      <b>Currently Building:</b> AI-Based CCTV Surveillance for Women Safety using YOLOv8 + YAMNet + MediaPipe.
-      <br/><br/>
-      <b>Focus Areas:</b> Python, Java, Flask/FastAPI, React.js
-    </td>
-    <td width="50%" valign="top">
-      <h3>Quick Info</h3>
-      <ul>
-        <li><b>Graduating:</b> 2027 (VTU) | CGPA: 8.17</li>
-        <li><b>Experience:</b> AI/ML Intern @ Embrizon Technologies (2023–2025)</li>
-        <li><b>Certifications:</b> NPTEL DBMS | AWS Certified | Infosys Springboard</li>
-        <li><b>Learning:</b> React.js, MERN Stack, Cloud (OCI/AWS)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```python
+class TanishaMS:
+    name        = "Tanisha M S"
+    institute   = "Atria Institute of Technology, Bangalore"
+    degree      = "B.E. Information Science & Engineering"
+    graduation  = 2027
+    cgpa        = 8.17
+ 
+    roles = [
+        "AI / ML Engineer",
+        "Full-Stack Developer (MERN + Flask/FastAPI)",
+        "AI Research Enthusiast"
+    ]
+ 
+    currently_building = """
+        AI-Based CCTV Surveillance for Women Safety
+        → YOLOv8 + YAMNet + MediaPipe
+        → Real-time threat detection with multi-modal fusion
+    """
+ 
+    experience = {
+        "company"  : "Embrizon Technologies",
+        "role"     : "AI/ML Intern",
+        "duration" : "2023 – 2025"
+    }
+ 
+    certifications = [
+        "NPTEL – Database Management Systems",
+        "AWS Certified Cloud Practitioner",
+        "Infosys Springboard – AI/ML Track"
+    ]
+ 
+    contact = {
+        "email"    : "tanishams225@gmail.com",
+        "linkedin" : "linkedin.com/in/tanisha-ms",
+        "github"   : "github.com/Tanishams"
+    }
+```
+ 
 ---
  
 ## Tech Stack
  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,flask,php,mysql,mongodb,html,css,git&perline=6" />
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6"/>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f59e0b"/>
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=818cf8"/>
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38bdf8"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FBFF?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FF00FF?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/YAMNet-00FBFF?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/scikit--learn-FF00FF?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Pandas-00FBFF?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/FastAPI-FF00FF?style=flat-square&labelColor=0d1117"/>
+### Frameworks & Runtimes
+<p>
+  <img src="https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4ade80"/>
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FBFF"/>
+</p>
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=YOLO&logoColor=FF00FF"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=34d399"/>
+  <img src="https://img.shields.io/badge/YAMNet-0d1117?style=for-the-badge&logo=tensorflow&logoColor=f97316"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f59e0b"/>
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=818cf8"/>
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=60a5fa"/>
+</p>
+### Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4ade80"/>
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=f59e0b"/>
+  <img src="https://img.shields.io/badge/OCI-0d1117?style=for-the-badge&logo=oracle&logoColor=ef4444"/>
+</p>
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=f97316"/>
+  <img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=f59e0b"/>
 </p>
 ---
  
 ## Featured Projects
  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI-Based CCTV Surveillance</h3>
+      <sub><b>Women Safety &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Audio AI</b></sub>
+      <br/><br/>
+      Real-time surveillance system combining <b>YOLOv8</b> for object detection, <b>YAMNet</b> for audio distress recognition, and <b>MediaPipe</b> for pose estimation. Designed to identify threats and trigger alerts automatically.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=YOLO&logoColor=FF00FF"/>
+      <img src="https://img.shields.io/badge/YAMNet-0d1117?style=flat-square&logo=tensorflow&logoColor=f97316"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=00FBFF"/>
+      <br/><br/>
+      <sub><i>Currently in active development</i></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SmartTalk AI</h3>
+      <sub><b>Voice AI &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Speaking Tutor</b></sub>
+      <br/><br/>
+      An AI-powered speaking tutor that evaluates spoken English in real time — analysing fluency, grammar, and pronunciation with detailed feedback loops. Built for learners who want adaptive, conversational practice.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3b82f6"/>
+      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logoColor=10b981"/>
+      <br/><br/>
+      <a href="https://github.com/Tanishams/ai_speaking_tutor">
+        <img src="https://img.shields.io/badge/View_Repository-0d1117?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Healio — AI Doctor</h3>
+      <sub><b>Healthcare AI &nbsp;·&nbsp; Symptom Analysis &nbsp;·&nbsp; Live Demo</b></sub>
+      <br/><br/>
+      A medical AI assistant that parses symptom inputs and provides preliminary health insights using fine-tuned language models. Deployed live on HuggingFace Spaces — accessible with zero setup.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=f59e0b"/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3b82f6"/>
+      <img src="https://img.shields.io/badge/Gradio-0d1117?style=flat-square&logoColor=818cf8"/>
+      <br/><br/>
+      <a href="https://huggingface.co/spaces/tanisha-ms/healio-aidoc">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=huggingface&logoColor=f59e0b"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gender Detection</h3>
+      <sub><b>Computer Vision &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Classification</b></sub>
+      <br/><br/>
+      A computer vision model trained for real-time gender classification from facial imagery using CNN architectures. Demonstrates an end-to-end ML pipeline: data processing, model training, and inference API.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=38bdf8"/>
+      <img src="https://img.shields.io/badge/Deep_Learning-0d1117?style=flat-square&logoColor=a78bfa"/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3b82f6"/>
+      <br/><br/>
+      <a href="https://github.com/Tanishams/gender_detection">
+        <img src="https://img.shields.io/badge/View_Repository-0d1117?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+---
+ 
+## GitHub Analytics
+ 
 <div align="center">
-  <a href="https://github.com/Tanishams/ai_speaking_tutor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=ai_speaking_tutor&bg_color=0d1117&title_color=00FBFF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" />
-  </a>
-  <a href="https://github.com/Tanishams/gender_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishams&repo=gender_detection&bg_color=0d1117&title_color=00FBFF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishams&show_icons=true&bg_color=0d1117&title_color=00FBFF&text_color=c9d1d9&icon_color=7c3aed&border_color=21262d&border_radius=10&include_all_commits=true&count_private=true" height="180px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishams&layout=compact&bg_color=0d1117&title_color=00FBFF&text_color=c9d1d9&border_color=21262d&border_radius=10&langs_count=6" height="180px"/>
 </div>
 <br/>
 <div align="center">
-  <a href="https://huggingface.co/spaces/tanisha-ms/healio-aidoc">
-    <img src="https://img.shields.io/badge/Healio%20AI%20Doctor-Live%20on%20HuggingFace-00FBFF?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Tanishams&theme=github-dark-blue&background=0d1117&border=21262d&stroke=00FBFF&ring=7c3aed&fire=f59e0b&currStreakLabel=00FBFF&sideLabels=c9d1d9&dates=8b949e&border_radius=10" width="70%"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishams&bg_color=0d1117&color=00FBFF&line=7c3aed&point=f59e0b&area_color=7c3aed&area=true&hide_border=true&radius=6" width="96%"/>
 </div>
 ---
  
-## Analytics & Activity
+## Certifications
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishams&show_icons=true&bg_color=0d1117&title_color=00FBFF&text_color=ffffff&icon_color=FF00FF&border_color=FF00FF&border_radius=15" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Tanishams&theme=dark&background=0d1117&border=00FBFF&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00FBFF&border_radius=15" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishams&theme=tokyo-night&bg_color=0d1117&color=00FBFF&line=FF00FF&point=ffffff&area=true&hide_border=true&radius=15" width="96%" />
-</p>
+| Certification | Issuer | Domain |
+|---|---|---|
+| Database Management Systems | NPTEL – IIT | Databases & SQL |
+| AWS Certified Cloud Practitioner | Amazon Web Services | Cloud Computing |
+| AI & ML Track | Infosys Springboard | Artificial Intelligence |
+ 
 ---
  
-## Let's Connect
+## Connect
  
 <div align="center">
   <a href="https://www.linkedin.com/in/tanisha-ms" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tanisha_MS-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="mailto:tanishams225@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-tanishams225-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="https://github.com/Tanishams">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Tanishams-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/tanisha-ms">
+    <img src="https://img.shields.io/badge/HuggingFace-tanisha--ms-f59e0b?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117"/>
   </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanishams&color=00FBFF&style=flat-square&label=VISITOR+COUNT" />
+  <img src="https://komarev.com/ghpvc/?username=Tanishams&color=00FBFF&style=flat-square&label=Profile+Views" />
 </div>
+<br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=00FBFF,FF00FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=false" />
 </div>
