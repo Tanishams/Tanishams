@@ -36,7 +36,6 @@
     <td valign="top" width="33%">
       <h4 align="center"> What I Do</h4>
       <table>
-        <tr><td></td><td>AI / ML Engineer</td></tr>
         <tr><td></td><td>Full-Stack Developer (MERN + Flask/FastAPI)</td></tr>
         <tr><td></td><td>AI Research Enthusiast</td></tr>
       </table>
