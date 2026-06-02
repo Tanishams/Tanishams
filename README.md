@@ -148,7 +148,7 @@
       <sub><i> Currently in active development</i></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎤 SmartTalk AI</h3>
+      <h3> SmartTalk AI</h3>
       <sub><b>Voice AI &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Speaking Tutor</b></sub>
       <br/><br/>
       An AI-powered speaking coach that evaluates spoken English in real time — analysing fluency, grammar, and pronunciation with detailed feedback. Built for learners who want adaptive, conversational practice.
@@ -178,7 +178,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ Gender Detection</h3>
+      <h3> Gender Detection</h3>
       <sub><b>Computer Vision &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Classification</b></sub>
       <br/><br/>
       A computer vision model for real-time gender classification from facial imagery using CNN architectures. Covers a full end-to-end ML pipeline — data processing, model training, and a clean inference API.
